@@ -14,7 +14,7 @@ Open the .exe in CSGO and the rest should be self explainatory.
 
 ## It's not working
 
-When it's not working than CSGO changed something or the offsets are outdated.
+When it's not working then CSGO changed something or the offsets are outdated.
 You can update the offsets by pasting from hazedumper (https://github.com/frk1/hazedumper/blob/master/csgo.hpp).
 
 ## Please note:
