@@ -1,0 +1,67 @@
+{
+   "weapon_ak47" : 
+   {
+      "entityQuality" : 0,
+      "paintKit" : 302,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   },
+   "weapon_deagle" : 
+   {
+      "entityQuality" : 0,
+      "paintKit" : 37,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   },
+   "weapon_galilar" : 
+   {
+      "entityQuality" : 0,
+      "paintKit" : 661,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   },
+   "weapon_glock" : 
+   {
+      "entityQuality" : 0,
+      "paintKit" : 1100,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   },
+   "weapon_knife" : 
+   {
+      "entityQuality" : 0,
+      "knife" : 507,
+      "paintKit" : 421,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   },
+   "weapon_m4a1" : 
+   {
+      "entityQuality" : 0,
+      "paintKit" : 309,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   },
+   "weapon_m4a1_silencer" : 
+   {
+      "entityQuality" : 0,
+      "paintKit" : 946,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   },
+   "weapon_usp_silencer" : 
+   {
+      "entityQuality" : 0,
+      "paintKit" : 1040,
+      "seed" : 0,
+      "statTrack" : 0,
+      "wear" : 9.9999997473787516e-005
+   }
+}
